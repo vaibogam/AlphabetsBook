@@ -94,3 +94,9 @@
 	.b-selector a .b-num         {float:right; clear:none;}
 	.b-selector a:hover          {color:#fff;}
 		
+	.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 5%;
+}
